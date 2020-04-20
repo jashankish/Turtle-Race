@@ -10,7 +10,6 @@ turtles = 8
 
 turtle.screensize(win_length, win_height)
 
-
 class racer(object):
     def __init__(self, color, pos):
         self.pos = pos
